@@ -5,9 +5,13 @@ I'm interested in Web technologies and Microsoft technologies.
 
 I have been worknig with C#, ASP.NET, .NET CORE, HTML, Javascript and Angular
 
-### Markdown
+## List of projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SharonNue
+This project was made with Xamarin-Forms.
+It is an Android app that allows you to manage your weekly menu.    
+- [Link](https://github.com/totallost/SharoNue)
+
 
 ```markdown
 Syntax highlighted code block
