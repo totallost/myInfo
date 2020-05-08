@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/totallost/myInfo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, My name is Anton. I'm a code enthusiast. 
+I'm interested in Web technologies and Microsoft technologies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been worknig with C#, ASP.NET, .NET CORE, HTML, Javascript and Angular
 
 ### Markdown
 
