@@ -9,8 +9,10 @@ I have been worknig with C#, ASP.NET, .NET CORE, HTML, Javascript and Angular
 
 ### **SharonNue**
 This project was made with Xamarin-Forms.
-It is an Android app that allows you to manage your weekly menu.    
+It is an Android app that allows you to manage your weekly menu. 
+Here is the APK: [SharonNue-APK](https://github.com/totallost/myInfo/raw/master/Sharonue.Sharonue.apk)   
 - [SharoNue](https://github.com/totallost/SharoNue)
+
 
 
 ```markdown
