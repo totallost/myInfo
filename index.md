@@ -7,10 +7,10 @@ I have been worknig with C#, ASP.NET, .NET CORE, HTML, Javascript and Angular
 
 ## List of projects
 
-### SharonNue
+### **SharonNue**
 This project was made with Xamarin-Forms.
 It is an Android app that allows you to manage your weekly menu.    
-- [Link](https://github.com/totallost/SharoNue)
+- [SharoNue](https://github.com/totallost/SharoNue)
 
 
 ```markdown
