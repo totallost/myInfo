@@ -13,6 +13,12 @@ It is an Android app that allows you to manage your weekly menu.
 Here is the APK: [SharonNue-APK](https://github.com/totallost/myInfo/raw/master/Sharonue.Sharonue.apk)   
 - [SharoNue](https://github.com/totallost/SharoNue)
 
+### **SqlForDummies**
+This project was made with WPF. 
+It is an app that allows you to connect to MsSql-DB and commit some simple queries
+It is a great program for IT support teams that from time to time need to change/delete of select data from the database 
+Here is the Zip program: [SqlForDummies.zip]()
+- [SqlForDummies](https://github.com/totallost/SqlForDummies)
 
 
 ```markdown
