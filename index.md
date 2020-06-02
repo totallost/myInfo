@@ -1,9 +1,10 @@
 ## Welcome to my page
 
-Hi, My name is Anton. I'm a code enthusiast. 
+Hi, My name is Anton.  
 I'm interested in Web technologies and Microsoft technologies. 
 
-I have been worknig with C#, ASP.NET, .NET CORE, HTML, Javascript and Angular
+I have been worknig with C#, ASP.NET, .NET CORE, Wpf, Xamarin, HTML, Javascript and Angular
+also, I have played a bit with GoLang
 
 ## List of projects
 
